@@ -23,7 +23,7 @@
  
 ##  Home page of bahmni 
 
-![Preview](./images/bahmnihomepage.png).
+![preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/bahmnihomepage.PNG)
 
 
 ##  HERE incorporated the ansible playbook i wrote to automate bahmni installation using ansible.
@@ -75,7 +75,6 @@
    - Now take a centos 7 machine with minimun of 8 Gb RAM .For BAHMNI 0.92 version we have to use centos 7.
 
    ![preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/3machines.PNG)
-   ![Preview](./images/3machines.png)
 
    - In our "ACS" machine install ansible and configure it with centos node.
 
