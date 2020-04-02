@@ -82,7 +82,7 @@
   
     - Now we can call ansible node to install BAHMNI on centos using jenkins.
     
-     ![Preview](./images/devops1.png)
+  ![preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/devops1.PNG)
 
     - wait for few minutes 
     
@@ -91,18 +91,20 @@
     
        it will be like 
 
-       ![Preview](./images/devops3.png)
+       ![preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/devops3.PNG)
 
     - you can access openmrs page using http://machine-ip/openmrs
 
     it looks like 
 
-    ![Preview](./images/devops4.png)
+    ![preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/devops4.PNG)
+    
 
 
     - and few other application pages looks like 
 
-    ![Preview](./images/devops5.png)
+    
+    ![preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/devops5.PNG)
 
 
   ## AND FINALLY 
@@ -112,7 +114,7 @@
 
 
 
-    ![Preview](./images/devops6.png)
+    ![Preview](https://github.com/kslvvaraprasad/challange2/blob/master/images/devops6.PNG)
 
 
 
